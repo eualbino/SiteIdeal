@@ -1,0 +1,38 @@
+.corhead{
+    background-color:#e79a42ef;
+}
+.Baner{
+    margin-left: 470px;
+    margin-top: 450px;
+}
+.historia{
+    margin-left: 427px;
+    margin-top: 15%;
+}
+.border{
+    border-radius: 15px;
+    color: azure;
+    margin-left: 335px;
+    font-size: 17px;
+}
+.logo{
+    margin-right: 250px;
+}
+.zoom{
+    transition: transform .2s;
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+    box-shadow: 100px;
+}
+.funfa{
+    margin-top: 200px;
+    margin-left: 180px;
+}
+.border2{
+    border-radius: 15px;
+    color: azure;
+    margin-left: 240px;
+    font-size: 17px;
+}
